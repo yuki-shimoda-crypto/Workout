@@ -1,2 +1,2 @@
 //#include <libc
-#inc
+#incl
